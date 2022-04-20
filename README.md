@@ -1,6 +1,4 @@
-# oNews
-
-O'Clock sort son journal d'étudiants :muscle:
+# oNews est un projet effectué durant ma formation pour l'integration d'une page web enHTML et CSS, si ça vous tente, vous pouvez le réaliser, ca vous permet d'apprendre ou mettre en pratique vos connaissances en HTML et CSS 
 
 Votre mission, si vous l'acceptez (...pfff évidemment qu'on l'accepte ), sera d'intégrer la maquette du site.
 
@@ -34,7 +32,7 @@ Si vous avez lu tout l'énoncé, vous savez ce qu'il vous reste à faire ;-)
 - Trouvez les propriétés et valeurs CSS idéales pour que le cadre transparent derrière le texte central bouge harmonieusement lorsque vous modifiez la taille de la fenêtre
 - Identifiez un moyen de faire ressortir les liens en bas de la page sur le fond clair
 
-## Bonus "défilement" :skull:
+## Bonus "défilement":skull:
 
 - il y a une scrollbar à droite, et désormais on en tient compte :boom:
 - la page contient en tout 6 articles, même si seuls 4 sont visibles
